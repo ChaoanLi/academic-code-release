@@ -26,6 +26,7 @@ Copy `SKILL.md` into your Cursor skills directory:
 
 ```bash
 # Personal (available in all your projects)
+mkdir -p ~/.cursor/skills/academic-code-release
 cp SKILL.md ~/.cursor/skills/academic-code-release/SKILL.md
 
 # Or clone the whole repo
